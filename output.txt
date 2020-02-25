@@ -1,0 +1,52 @@
+Program to solve complex equation of 2 & 3 variable
+-by Rahul Nikam
+
+
+No.of unknown(2 or 3)=3
+For equation no.(1)
+Enter the coef of 'X'
+Real part=4
+Img part=5
+Enter the coef of 'Y'
+Real part=-1
+Img part=-3
+Enter the coef of 'Z'
+Real part=-2
+Img part=0
+Enter the constant
+Real part=5
+Img part=0
+For equation no.(2)
+Enter the coef of 'X'
+Real part=-1
+Img part=-3
+Enter the coef of 'Y'
+Real part=2
+Img part=2
+Enter the coef of 'Z'
+Real part=0
+Img part=3
+Enter the constant
+Real part=0
+Img part=0
+For equation no.(3)
+Enter the coef of 'X'
+Real part=-2
+Img part=0
+Enter the coef of 'Y'
+Real part=0
+Img part=2
+Enter the coef of 'Z'
+Real part=5
+Img part=-2
+Enter the constant
+Real part=0
+Img part=0
+
+
+	*****Answer***** 
+Value of X = 0.8 - j0.85
+Value of Y = 0.625 - j0.375
+Value of Z = 0.35 - j0.45
+
+Do you want to continue then press '1'
